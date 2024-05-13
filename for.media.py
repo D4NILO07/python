@@ -1,5 +1,5 @@
 import os
-os.system("cla || clear")
+os.system("cls || clear")
 
 
 soma = 0 
